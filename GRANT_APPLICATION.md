@@ -39,16 +39,16 @@ A production-ready REST API that allows merchants to accept USDC payments on Eth
 - Freelance payments
 
 ### Code Repository
-- GitHub: [Your GitHub URL]
+- GitHub: https://github.com/rashidtv/usdc-payment-gateway.git
 
 ### Live Demo
 - API: http://localhost:3000
 - Transaction: 0x4a0f43e595310c9033ee7fe608c717c15e4987113927ad4681aa5afbd0a8e4b1
 
 ### Developer
-- Name: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Username]
+- Name: Rashid
+- Email: rashid828@gmail.com
+- GitHub: rashidtv
 
 ### Skills Demonstrated
 - TypeScript/JavaScript
